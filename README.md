@@ -6,7 +6,7 @@
 
 
 
-**🔗Live Demo**:👉 [Click to open Streamlit App](https://github.com/KUSHAALSP/news-classification-article-real-or-fake-)
+**🔗Live Demo**:👉 [Click to open Streamlit App](https://h8fkjq4vqlbltbnejogywx.streamlit.app/)
 
 
 **🎯 Objective:**
